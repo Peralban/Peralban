@@ -1,7 +1,7 @@
 
 # Hello, Alban here
 
-I'm a French student at Epitech Nantes.
+I'm a 22 French student at Epitech Nantes.
 
 ---
 ### 🛠 Languages and tools :
