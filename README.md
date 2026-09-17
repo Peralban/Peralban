@@ -24,8 +24,9 @@ I'm a French student at Epitech Nantes.
 
 ### 📊 Stats :
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peralban&show_icons=true&count_private=true&hide=contribs,prs&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peralban&layout=compact&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Peralban&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Peralban&show_icons=true&include_all_commits=true&theme=dark_github)
+<!-- Client-side tools -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Peralban&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Peralban&langs_count=5&theme=dark_github)
 
 
 ## 📫 How to Reach Me
